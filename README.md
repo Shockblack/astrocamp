@@ -5,4 +5,5 @@ These are meant to serve as a "minimum" working example, going from processed da
 Steps from observations to processed data are not currently covered, but this may change in the future.
 
 Topics Covered:
+
 Exoplanetary Transits
